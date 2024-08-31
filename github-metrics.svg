@@ -40,9 +40,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7917 Commits
+                            7918 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.25475774031423" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="275.25475774031423" y="0" width="117.39155594246151" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="392.6463136827757" y="0" width="25.717223810817025" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.3635374935928" y="0" width="21.136553010435424" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.5000905040282" y="0" width="11.90402590076877" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.404116404797" y="0" width="3.9216797040245566" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="455.3257961088215" y="0" width="2.676400088436452" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.002196197258" y="0" width="1.9978038027420626" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.25133613869076" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="275.25133613869076" y="0" width="117.39009668652827" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="392.64143282521906" y="0" width="25.72262223758439" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="418.36405506280346" y="0" width="21.136290268876703" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.5003453316802" y="0" width="11.903877925726734" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.4042232574069" y="0" width="3.9216309549102744" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="455.32585421231715" y="0" width="2.6763668189846808" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.0022210313018" y="0" width="1.9977789686981726" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -354,7 +354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AdguardTeam/AdGuardHome</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Network-wide ads &amp; trackers blocking DNS server</div>
@@ -407,7 +407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ismartcoding/plain-app</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!</div>
@@ -460,7 +460,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MuntashirAkon/AppManager</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A full-featured package manager and viewer for Android</div>
@@ -513,7 +513,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jaksi/sshesame</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity</div>
@@ -566,7 +566,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zero-peak/ZeroOmega</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage and switch between multiple proxies quickly &amp; easily.</div>
@@ -587,7 +587,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.20k
+                                        1.21k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -683,7 +683,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2024, 01:15:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Aug 2024, 01:15:21  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
